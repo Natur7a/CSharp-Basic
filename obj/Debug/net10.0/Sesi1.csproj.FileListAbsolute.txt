@@ -1,0 +1,14 @@
+C:\Users\Moses\source\repo-training\Sesi1\bin\Debug\net10.0\Sesi1.exe
+C:\Users\Moses\source\repo-training\Sesi1\bin\Debug\net10.0\Sesi1.deps.json
+C:\Users\Moses\source\repo-training\Sesi1\bin\Debug\net10.0\Sesi1.runtimeconfig.json
+C:\Users\Moses\source\repo-training\Sesi1\bin\Debug\net10.0\Sesi1.dll
+C:\Users\Moses\source\repo-training\Sesi1\bin\Debug\net10.0\Sesi1.pdb
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\Sesi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\Sesi1.AssemblyInfoInputs.cache
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\Sesi1.AssemblyInfo.cs
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\Sesi1.csproj.CoreCompileInputs.cache
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\Sesi1.dll
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\refint\Sesi1.dll
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\Sesi1.pdb
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\Sesi1.genruntimeconfig.cache
+C:\Users\Moses\source\repo-training\Sesi1\obj\Debug\net10.0\ref\Sesi1.dll
